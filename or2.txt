@@ -1,1 +1,1 @@
-or2.txt init
+or2.txt init vvv
